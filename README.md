@@ -5,24 +5,19 @@
 
 ## I'm a Self taught developer looking to make my mark!
 
-
-- Currently open for work!  
-  
+- Currently open for work!
 - 🌱 Learning all the things
-  
-- 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month. 
-  
-- ⚡ Fun facts that everyone needs to know: I'm constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski), and I can cook my ass off. 
+- 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month.
+- ⚡ Fun facts that everyone needs to know: I'm constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski), and I can cook my ass off.
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="zacharyp.dev" width="22px"  src="https://api.iconify.design/mdi/web.svg" />][websiteContact]
+[<img align="left" alt="zacharyp.dev" width="22px"  src="https://api.iconify.design/mdi/web.svg" />][websitecontact]
 
 [<img align="left" alt="ZachCodedThat | Twitter" width="22px" src="https://api.iconify.design/logos/twitter.svg" />][twitter]
 [<img align="left" alt="Zachary Przybilski | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg" />][linkedin]
-
 
 <br />
 
@@ -57,14 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/zacharyp)
 
 ---
 
@@ -72,20 +62,12 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+
 <!--END_SECTION:activity-->
 
 </details>
 
 [website]: https://zacharyp.dev
-[websiteContact]: https://www.zacharyp.dev/contact
-
+[websitecontact]: https://www.zacharyp.dev/contact
 [twitter]: https://twitter.com/TweetZachBack
-
-
 [linkedin]: https://www.linkedin.com/in/zachary-przybilski/
-
