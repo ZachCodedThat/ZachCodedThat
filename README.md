@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="zacharyp.dev" width="22px"  src="https://api.iconify.design/mdi/web.svg" />][websitecontact]
+[<img align="left" alt="zacharyp.dev" width="22px"  src="https://api.iconify.design/mdi/web.svg?color=white" />][websitecontact]
 
 [<img align="left" alt="ZachCodedThat | Twitter" width="22px" src="https://api.iconify.design/logos/twitter.svg" />][twitter]
 [<img align="left" alt="Zachary Przybilski | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg" />][linkedin]
@@ -51,6 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [This is test # 2](https://dev.to/zacharyp/this-is-test-2-404)
 <!-- BLOG-POST-LIST:END -->
 
