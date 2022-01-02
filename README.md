@@ -51,7 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [This is a test](https://dev.to/zacharyp/this-is-a-test-4h31)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/zacharyp)
