@@ -56,6 +56,8 @@
 
 ---
 
+[![Spotify](https://zachcodedthat.vercel.app/api/spotify)](https://open.spotify.com/user/zachstrikesback)
+
 [website]: https://zacharyp.dev
 [websitecontact]: https://www.zacharyp.dev/contact
 [twitter]: https://twitter.com/TweetZachBack
