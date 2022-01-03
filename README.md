@@ -48,7 +48,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [This is test # 2](https://dev.to/zacharyp/this-is-test-2-404)
 <!-- BLOG-POST-LIST:END -->
 
