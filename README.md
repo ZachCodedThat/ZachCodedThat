@@ -48,6 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [This is test # 2](https://dev.to/zacharyp/this-is-test-2-404)
 <!-- BLOG-POST-LIST:END -->
 
@@ -55,7 +56,9 @@
 
 ---
 
-[![Spotify](https://zachcodedthat.vercel.app/api/spotify)](https://open.spotify.com/user/zachstrikesback)
+## What i'm listening to rn:
+
+[![Spotify](https://spotify-read-me-widget.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zachstrikesback)
 
 [website]: https://zacharyp.dev
 [websitecontact]: https://www.zacharyp.dev/contact
