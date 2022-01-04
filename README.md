@@ -48,8 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This is a new test](https://dev.to/zacharyp/this-is-a-new-test-2fe9)
-- [This is test # 2](https://dev.to/zacharyp/this-is-test-2-404)
+- [Auto blog scraper in your GH profile using GH Actions.](https://dev.to/zacharyp/auto-blog-scraper-in-your-gh-profile-using-gh-actions-39gb)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/zacharyp)
