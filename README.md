@@ -7,7 +7,7 @@
 
 - 🔭 Currently open for work!
 - 🌱 Learning all the things
-- 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month.
+- 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month, Get AWS certified in some form or fashion.
 - ⚡ Fun facts that everyone needs to know: I'm constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski), and I can cook my ass off.
 
 ---
