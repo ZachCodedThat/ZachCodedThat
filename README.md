@@ -49,6 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Letting it all hang out](https://dev.to/zacharyp/letting-it-all-hang-out-4mc9)
 - [Programming Productivity](https://dev.to/zacharyp/programming-productivity-4pg3)
 - [Auto blog scraper in your GH profile using GH Actions.](https://dev.to/zacharyp/auto-blog-scraper-in-your-gh-profile-using-gh-actions-39gb)
 <!-- BLOG-POST-LIST:END -->
