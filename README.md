@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=zacharyp.dev&url=https%3A%2F%2Fwww.zacharyp.dev%2F)](https://www.zacharyp.dev/)
 [![Website](https://img.shields.io/website?label=zacharyp.blog&url=https%3A%2F%2Fwww.zacharyp.blog%2F)](https://www.zacharyp.blog/)
 
-## I'm a Self taught developer looking to make my mark!
+## Your favorite programers favorite programer
 
 - 🔭 Currently open for work!
 - 🌱 Learning all the things
