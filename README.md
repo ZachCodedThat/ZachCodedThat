@@ -2,6 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TweetZachBack?style=social)](https://twitter.com/TweetZachBack)
 [![Website](https://img.shields.io/website?label=zacharyp.dev&url=https%3A%2F%2Fwww.zacharyp.dev%2F)](https://www.zacharyp.dev/)
+[<img  alt="zacharyp.dev" width="22px"  src="https://api.iconify.design/mdi/web.svg?color=white" />][websitecontact]
+[<img  alt="ZachCodedThat | Twitter" width="22px" src="https://api.iconify.design/logos/twitter.svg" />][twitter]
+[<img  alt="Zachary Przybilski | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg" />][linkedin]
 
 ## I'm a Self taught developer looking to make my mark!
 
@@ -9,17 +12,6 @@
 - 🌱 Learning all the things, all of it.
 - 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month, Get AWS certified in some form or fashion.
 - ⚡ Fun facts that everyone needs to know: I'm constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski), and I can cook my ass off.
-
----
-
-### Connect with me:
-
-[<img align="left" alt="zacharyp.dev" width="22px"  src="https://api.iconify.design/mdi/web.svg?color=white" />][websitecontact]
-
-[<img align="left" alt="ZachCodedThat | Twitter" width="22px" src="https://api.iconify.design/logos/twitter.svg" />][twitter]
-[<img align="left" alt="Zachary Przybilski | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg" />][linkedin]
-
-<br />
 
 ---
 
@@ -47,11 +39,14 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Auto blog scraper in your GH profile using GH Actions.](https://dev.to/zacharyp/auto-blog-scraper-in-your-gh-profile-using-gh-actions-39gb)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/zacharyp)
