@@ -8,7 +8,7 @@
 
 ## Your favorite programmers favorite programmer
 
-- 🔭 Currently open for work, a purpose, structure!
+- 🔭 Currently open for work.
 - 📝 let me write your docs!
 - 🌱 Learning how to go fast with [11ty](https://www.11ty.dev/) and serverless shenanigans with [Netlify](https://www.netlify.com/products/functions/)
 - 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month.
