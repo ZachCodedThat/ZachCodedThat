@@ -8,11 +8,10 @@
 
 ## Your favorite programmers favorite programmer
 
-- 🔭 Currently open for work.
-- 📝 let me write your docs!
-- 🌱 Learning how to go fast with [11ty](https://www.11ty.dev/) and serverless shenanigans with [Netlify](https://www.netlify.com/products/functions/)
-- 🥅 2022 Goals: - Land my first Dev job, Contribute to an Open Source project in what ever way I can, and put out at least 1 blog post a month.
-- ⚡ Constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski)
+- 👷🏼 Currently a SWE in the manufacturing field.
+- 🔪 Professionally bending C# and .NET to my will.
+- 🌱 Privately Using Go and HTMX to build totally cool and _original_ ideas
+- ⚡ Still constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski)
 
 ---
 
