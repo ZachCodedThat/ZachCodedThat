@@ -8,7 +8,8 @@
 
 ## Your favorite programmers favorite programmer
 
-- 👷🏼 Currently a SWE in the manufacturing field.
+- Mind the cobwebs I havent had much time for futzing around.. 
+- 👷🏼 Still a SWE in the manufacturing field.
 - 🔪 Professionally bending C# and .NET to my will.
 - 🌱 Privately Using Go and HTMX to build totally cool and _original_ ideas
 - ⚡ Still constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski)
