@@ -54,3 +54,8 @@
 ➡️ [more blog posts...](https://dev.to/zacharyp)
 
 ---
+
+[website]: https://zacharyp.dev
+[websitecontact]: https://www.zacharyp.dev/contact
+[twitter]: https://twitter.com/TweetZachBack
+[linkedin]: https://www.linkedin.com/in/zachary-przybilski/
