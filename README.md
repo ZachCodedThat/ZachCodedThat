@@ -54,12 +54,3 @@
 ➡️ [more blog posts...](https://dev.to/zacharyp)
 
 ---
-
-## What i'm listening to rn:
-
-[![Spotify](https://spotify-read-me-widget.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zachstrikesback)
-
-[website]: https://zacharyp.dev
-[websitecontact]: https://www.zacharyp.dev/contact
-[twitter]: https://twitter.com/TweetZachBack
-[linkedin]: https://www.linkedin.com/in/zachary-przybilski/
