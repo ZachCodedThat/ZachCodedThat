@@ -9,10 +9,10 @@
 ## Your favorite programmers favorite programmer
 
 - Mind the cobwebs I havent had much time for futzing around.. 
-- 👷🏼 Still a SWE in the manufacturing field.
-- 🔪 Professionally bending C# and .NET to my will.
-- 🌱 Privately Using Go and HTMX to build totally cool and _original_ ideas
-- ⚡ Still constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski)
+- 👷🏼 A SWE floating in digital freespace.
+- 🔪 Bending agent context windows to my will.
+- 🌱 Privately Using OpenClaw to build totally cool and _original_ ideas and automate the automation of my life
+- ⚡ Still constantly finding new music on [SoundCloud](https://soundcloud.com/zach-przybilski) and reading better [books](https://www.goodreads.com/user/show/190837232-zachary-przybilski) 
 
 ---
 
