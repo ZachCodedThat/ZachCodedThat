@@ -1,6 +1,5 @@
 # Hello, I'm Zach - aka [ZachCodedThat][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TweetZachBack?style=social)](https://twitter.com/TweetZachBack)
 [![Website](https://img.shields.io/website?label=zacharyp.dev&url=https%3A%2F%2Fwww.zacharyp.dev%2F)](https://www.zacharyp.dev/)
 [<img  alt="zacharyp.dev" width="28px"  src="https://api.iconify.design/mdi/web.svg?color=white" />][websitecontact]
 [<img  alt="ZachCodedThat | Twitter" width="28px" src="https://api.iconify.design/logos/twitter.svg" />][twitter]
